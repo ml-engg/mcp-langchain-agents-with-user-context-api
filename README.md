@@ -1,9 +1,10 @@
 # mcp-langchain-agents-with-user-context-api
 
-1. tool - 
+1. tool \n
+    
         jobsearch agent 
         news agent  
-2. agentic ai tool (langchain) - MCP structure 
+3. agentic ai tool (langchain) - MCP structure 
         agent determines based on user query which tool to invode 
 4. rag to store & retrive user level historical conversation for context 
 5. fastapi 
