@@ -18,7 +18,7 @@
 
 note: 
 
-    ai tools was used to create codes 
+    ai tools was used to create these codes in this repo 
     databricks was used as llm were already provided & served as endpoint 
     alternative approach: 
         1. deploy fastapi in AKS instead of long running job clusters -- that is more optimal for hosting microservice 
