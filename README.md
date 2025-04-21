@@ -14,7 +14,8 @@
         concurrency 
         user level context reterival 
  
-8. tested concurrency of the rest-api 
+8. tested concurrency of the rest-api
+9. Note MCP is not implemented here from mcp package, but under folder "additional_codes_mcp_like_implementation", a fast api server is created mcp_job_search and the same is called in code llm_microservice. This is same concept as MCP 
 
 note: 
 
